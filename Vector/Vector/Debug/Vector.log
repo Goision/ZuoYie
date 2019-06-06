@@ -1,0 +1,5 @@
+﻿  Vector.cpp
+f:\le\zy\f1\vector\vector\vector.cpp(13): warning C4326: “main”的返回类型应为“int”而非“void”
+f:\le\zy\f1\vector\vector\vector.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+f:\le\zy\f1\vector\vector\vector.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+  Vector.vcxproj -> F:\LE\ZY\F1\Vector\Debug\Vector.exe
